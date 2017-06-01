@@ -1,0 +1,21 @@
+page-home {
+  .range {
+    border-radius: 2em;
+    width: 100%;
+    padding: 0px 20px;
+    margin: 10px 0px;
+    .range-bar, .range-bar-active, .range-knob {
+      background: white;
+    }
+  }
+  .result {
+    border-radius: 2em;
+    height: 100px;
+    width: 100px;
+    margin: 10px auto;
+  }
+  ion-icon {
+    color: white;
+    font-family: Roboto;
+  }
+}
